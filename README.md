@@ -58,7 +58,7 @@ pong-game/
 
 ## 🐣 Credits
 
-- Coded with 💛 by [Your Name]
+- Coded with 💛 by [Dr. Shreyash]
 - Inspired by the original Pong (Atari, 1972)
 
 ---
