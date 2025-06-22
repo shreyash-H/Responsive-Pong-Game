@@ -24,6 +24,10 @@ Move your paddle by dragging with your mouse or finger. Challenge the AI and see
    - 🖱️ **Desktop:** Move your mouse vertically over the play area.
    - 🤚 **Mobile:** Touch and drag up/down on the play area.
 
+             OR
+
+ Just click on my link 👇👇
+     https://shreyash-h.github.io/Responsive-Pong-Game/
 ---
 
 ## 📱 Screenshots
